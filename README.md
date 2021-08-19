@@ -1,8 +1,10 @@
 # teste-front
-Para rodar a aplicação digite: ctrl+" 
+para abrir o terminal da aplicação digite: ctrl + " 
 
-para abrir o terminal, em seguida digite: cd my-app
+Em seguida digite no terminal: npm install
+
+Em seguida digite : cd my-app
 
 Logo em seguida digite: yarn start
 
-para rodar.
+Para rodar.
